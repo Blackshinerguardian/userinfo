@@ -31,7 +31,7 @@ API: Random Data API.
 ///////////////// INSTRUCTIONS/////////////
 
 
-1. CLONE THE REPOSITORY:
+1. CLONE THE REPOSITORY:     git clone  https://github.com/Blackshinerguardian/User-INFO-REACTNATIVE.git                                                                
 2. NAVIGATE TO THE PROJECT DIRECTORY:                 cd UserInfoApp
 
 3. INSTALL DEPENDENCIES:                                 npm install
@@ -55,8 +55,6 @@ Additional Notes......................................
 Ensure you have a working React Native environment set up.
 The app fetches data from the Random Data API and displays user information.
 Use the navigation buttons to view details of different users.
-
-
 
 
 
