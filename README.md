@@ -50,14 +50,16 @@ npx react-native run-ios
 
 
 
+Additional Notes......................................
+
+Ensure you have a working React Native environment set up.
+The app fetches data from the Random Data API and displays user information.
+Use the navigation buttons to view details of different users.
 
 
 
 
 
 
-"""""""""""""""""""""""""""""""""the User Information App project locally on your machine"""""""""""""""""""""""""""""""""""""""""""
-
-Instructions
 
 
